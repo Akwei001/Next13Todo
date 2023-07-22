@@ -6,7 +6,7 @@ export default function Home() {
       <header className='flex items-center justify-between mb-4'>
         <h1 className='text-2xl'>Todos</h1>
         <Link href='/new'> New </Link>
-        <ul></ul>
+        <ul>A list item</ul>
       </header>
     </>
   );
